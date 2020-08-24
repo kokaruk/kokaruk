@@ -37,6 +37,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [C# Lazy init fields](https://kokaruk.com/2018/12/01/c-lazy-init-fields/)
+- [homebrew and tomcat](https://kokaruk.com/2018/05/25/brew-and-tomcat/)
+- [Fill field with colour on change](https://kokaruk.com/2018/05/10/fill-field-with-colour-on-change/)
+- [Custom radio in Acrobat](https://kokaruk.com/2018/05/01/139-2/)
+- [Java 8: Lazy init field with lambdas](https://kokaruk.com/2018/04/28/java-8-lazy-init-field-with-lambdas/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
