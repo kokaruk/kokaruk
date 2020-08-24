@@ -1,6 +1,6 @@
 ### Hi there, I'm Dzmitry aka [kokaruk][website]  👋
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4b667cd0-8393-4a77-9e24-aff8aa0e6cdc/deploy-status)](https://app.netlify.com/sites/lucid-lalande-e453ef/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4b667cd0-8393-4a77-9e24-aff8aa0e6cdc/deploy-status)](https://app.netlify.com/sites/kokaruk/deploys)
 
 ## I'm a Nerd, Developer, Motorcycles lover 😅
 
