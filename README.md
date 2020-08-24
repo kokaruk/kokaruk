@@ -35,6 +35,7 @@
 
 ---
 
+
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [C# Lazy init fields](https://kokaruk.com/2018/12/01/c-lazy-init-fields/)
@@ -44,13 +45,14 @@
 - [Java 8: Lazy init field with lambdas](https://kokaruk.com/2018/04/28/java-8-lazy-init-field-with-lambdas/)
 <!-- BLOG-POST-LIST:END -->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kokaruk)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
 
+---
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Dzmitry's Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="kokaruk's Github Stats" src="https://github-readme-stats.kokaruk.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
 
 </details>
 
