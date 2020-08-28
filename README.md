@@ -1,6 +1,7 @@
 ### Hi there, I'm Dzmitry aka [kokaruk][website]  👋
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4b667cd0-8393-4a77-9e24-aff8aa0e6cdc/deploy-status)](https://app.netlify.com/sites/kokaruk/deploys)
+![Latest blog post workflow](https://github.com/kokaruk/kokaruk/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
 ## I'm a Nerd, Developer, Motorcycles lover 😅
 
