@@ -17,7 +17,7 @@
 
 ### Other githuib
 Work 
-[<img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+<img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />[github]
 
 
 <br />
