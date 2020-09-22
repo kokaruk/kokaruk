@@ -16,7 +16,7 @@
 
 ### Other githuib
 Work github:  
-<img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+[<img alt="Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
 
 
 <br />
@@ -66,3 +66,4 @@ Work github:
  [website]: https://kokaruk.com
  [instagram]: https://instagram.com/kokaruk
  [linkedin]: https://www.linkedin.com/in/dzmitry-kakaruk/
+ [github]: https://github.com/dzmitry-kakaruk-webjet
