@@ -3,6 +3,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4b667cd0-8393-4a77-9e24-aff8aa0e6cdc/deploy-status)](https://app.netlify.com/sites/kokaruk/deploys)
 ![Latest blog post workflow](https://github.com/kokaruk/kokaruk/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
+As I'm a corporate developer, this private account unfortunately is very neglcted and has some little activity. 
+
 ## I'm a Nerd, Developer, Motorcycles lover 😅
 
 - 🌱 I’m currently learning Blazor Webassembly
@@ -55,7 +57,6 @@ Github:
 
 <details>
   <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="kokaruk's Github Stats" src="https://github-readme-stats.kokaruk.vercel.app/api?username=kokaruk&show_icons=true&hide_border=true&hide=stars,contribs" />
 
 </details>
