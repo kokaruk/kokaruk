@@ -53,7 +53,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="kokaruk's Github Stats" src="https://github-readme-stats.kokaruk.vercel.app/api?username=kokaruk&show_icons=true&hide_border=true&hide=stars,prs,issues,contribs" />
+  <img align="left" alt="kokaruk's Github Stats" src="https://github-readme-stats.kokaruk.vercel.app/api?username=kokaruk&show_icons=true&hide_border=true&hide=stars,contribs" />
 
 </details>
 
