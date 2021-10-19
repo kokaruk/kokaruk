@@ -3,12 +3,12 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4b667cd0-8393-4a77-9e24-aff8aa0e6cdc/deploy-status)](https://app.netlify.com/sites/kokaruk/deploys)
 ![Latest blog post workflow](https://github.com/kokaruk/kokaruk/workflows/Latest%20blog%20post%20workflow/badge.svg)
 
-__*As I'm a corporate developer, this private account unfortunately is very neglcted and has some little activity.*__
+__*As I'm a corporate product oriented developer, this private account unfortunately is very neglcted and has some little activity.*__
 
 ## I'm a Nerd, Developer, Motorcycles lover 😅
 
-- 🌱 I’m currently learning Blazor Webassembly
-- 🥅 2020 Goals: Learn Webasm & GraphQl
+- 🌱 I’m currently learning Apache Kafka, Cloud Events
+- 🥅 2021 Goals: Learn MS Orleans
 - ⚡ Fun fact: I play 5 strings Bass Guitar
 ---
 ### Connect with me:
